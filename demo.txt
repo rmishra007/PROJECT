@@ -1,0 +1,4 @@
+print "enter two values"
+read a b
+echo value1:$a
+echo value2:$b
