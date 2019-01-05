@@ -9,5 +9,6 @@ read a b
   print"wrong'
   else
   print "$a is bigger than $b"
-  fi
-
+    echo "prog.completed"
+    echo "dev.by Ram"
+    fi
